@@ -1,0 +1,5 @@
+
+This problem can be stated as creating and displaying an array containing specific values.
+The array must include a text value, integers, a boolean value, and a decimal number in the given order.
+For example, the displayed array should contain Orange, 25, 100, true, and 33.58.
+The key point is to preserve both the order and data types of all values.
